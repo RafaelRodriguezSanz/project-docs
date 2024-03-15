@@ -1,3 +1,4 @@
+```mermaid
 ---
 title: MER - ConectaFoods
 ---
@@ -178,3 +179,5 @@ erDiagram
         VARCHAR(255) currency PK "Currency name."
         VARCHAR(255) symbol UK "Currency symbol."
     }
+
+```
